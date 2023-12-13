@@ -1,0 +1,19 @@
+# Python related
+*.pyc            # Ignore Python bytecode files
+__pycache__/     # Ignore Python cache directories
+venv/            # Ignore virtual environment folders
+
+# Editor/IDE specific
+.idea/           # Ignore JetBrains IDE settings
+.vscode/         # Ignore Visual Studio Code settings
+*.sublime-workspace  # Ignore Sublime Text workspace files
+
+# Logs and temporary files
+*.log            # Ignore log files
+*.tmp            # Ignore temporary files
+
+# Configuration files (if needed)
+config.ini       # Ignore specific configuration files
+
+# Other sensitive information (if applicable)
+secret_key.txt   # Ignore sensitive data files
